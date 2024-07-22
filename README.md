@@ -1,10 +1,8 @@
 # Customer-Churn-Prediction-using-PySpark
 
-Customer Churn Prediction Project
-
 This project utilizes PySpark for customer churn prediction for a Telecommunications company. It demonstrates data loading, exploratory data analysis (EDA), data preprocessing, feature preparation, model training and evaluation, and provides actionable insights to reduce customer churn.
 
-Key Components
+**Key Components**
 
 Data Loading: Loads data from dataset.csv using PySpark.
 
